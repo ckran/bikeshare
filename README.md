@@ -7,3 +7,5 @@ The files in this repository are in support of articles in "Towards Data Science
 [Reverse Gecoding NYC Bike Share Data](https://towardsdatascience.com/reverse-geocoding-with-nyc-bike-share-data-cdef427987f8) - locatoins.ipynb
 
 [Visualizing NYC Bike Share Trips with a Chord Diagram](https://towardsdatascience.com/visualizing-nyc-bike-share-trips-with-a-chord-diagram-eb4c8e14366) - chords.ipynb
+
+[Use Weather History with NYC Bike Share Trip Data](https://towardsdatascience.com/use-weather-history-with-nyc-bike-share-trip-data-51fcb89297d) - weather.ipynb
