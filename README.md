@@ -9,3 +9,5 @@ The files in this repository are in support of articles in "Towards Data Science
 [Visualizing NYC Bike Share Trips with a Chord Diagram](https://towardsdatascience.com/visualizing-nyc-bike-share-trips-with-a-chord-diagram-eb4c8e14366) - chords.ipynb
 
 [Use Weather History with NYC Bike Share Trip Data](https://towardsdatascience.com/use-weather-history-with-nyc-bike-share-trip-data-51fcb89297d) - weather.ipynb
+
+[Exploring the effects of the Pandemic on NYC Bike Share Usage](https://towardsdatascience.com/exploring-the-effects-of-the-pandemic-on-nyc-bike-share-usage-ab79f67ac2df) - twoyears.ipynb
