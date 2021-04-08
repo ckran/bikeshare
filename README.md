@@ -11,3 +11,7 @@ The files in this repository are in support of articles in "Towards Data Science
 [Use Weather History with NYC Bike Share Trip Data](https://towardsdatascience.com/use-weather-history-with-nyc-bike-share-trip-data-51fcb89297d) - weather.ipynb
 
 [Exploring the effects of the Pandemic on NYC Bike Share Usage](https://towardsdatascience.com/exploring-the-effects-of-the-pandemic-on-nyc-bike-share-usage-ab79f67ac2df) - twoyears.ipynb
+
+[Interpolating NYC Bike Share Data to Discover Rebalancing Movements](https://towardsdatascience.com/interpolating-nyc-bike-share-data-to-discover-rebalancing-movements-6cf8a80eb902)
+
+[Estimating Bike Availability from NYC Bike Share Data] - availability.ipynb
