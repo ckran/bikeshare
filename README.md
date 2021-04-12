@@ -12,6 +12,6 @@ The files in this repository are in support of articles in "Towards Data Science
 
 [Exploring the effects of the Pandemic on NYC Bike Share Usage](https://towardsdatascience.com/exploring-the-effects-of-the-pandemic-on-nyc-bike-share-usage-ab79f67ac2df) - twoyears.ipynb
 
-[Interpolating NYC Bike Share Data to Discover Rebalancing Movements](https://towardsdatascience.com/interpolating-nyc-bike-share-data-to-discover-rebalancing-movements-6cf8a80eb902)
+[Interpolating NYC Bike Share Data to Discover Rebalancing Movements](https://towardsdatascience.com/interpolating-nyc-bike-share-data-to-discover-rebalancing-movements-6cf8a80eb902) - rebalancing.ipynb
 
 [Estimating Bike Availability from NYC Bike Share Data](https://towardsdatascience.com/estimating-bike-availability-from-nyc-bike-share-data-7cfc4655d5f6) - availability.ipynb
