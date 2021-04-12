@@ -14,4 +14,4 @@ The files in this repository are in support of articles in "Towards Data Science
 
 [Interpolating NYC Bike Share Data to Discover Rebalancing Movements](https://towardsdatascience.com/interpolating-nyc-bike-share-data-to-discover-rebalancing-movements-6cf8a80eb902)
 
-[Estimating Bike Availability from NYC Bike Share Data] - availability.ipynb
+[Estimating Bike Availability from NYC Bike Share Data](https://towardsdatascience.com/estimating-bike-availability-from-nyc-bike-share-data-7cfc4655d5f6) - availability.ipynb
